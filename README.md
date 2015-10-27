@@ -1,13 +1,12 @@
-# timtec-doc
-Repositório do manual da aplicação TIM Tec. Para maiores informações, veja o portal do projeto: http://timtec.com.br
+# Documentação TIM Tec
+
+Repositório do manual da aplicação TIM Tec. Para maiores informações, veja o portal do projeto: http://timtec.com.br/
 
 
-Como compilar essa documentação
-===============================
+## Como compilar essa documentação
 
 
-Debian 8 (Jessie)
------------------
+### Debian 8 (Jessie) ###
 
 1. Instale os pacotes necessários
 
@@ -39,5 +38,4 @@ Caso seja necessário gerar novamente a documentação, limpe o diretório ``bui
 ``
 make clean && make html
 ``
-
 
