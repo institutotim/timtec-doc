@@ -39,3 +39,4 @@ Caso seja necessário gerar novamente a documentação, limpe o diretório ``bui
 make clean && make html
 ``
 
+5. Dentro do diretório ``build`` há uma pasta chamada ``html``, envie para o servidor web e pronto!
