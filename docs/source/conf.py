@@ -191,7 +191,7 @@ html_context = {
   "github_user": "institutotim",
   "github_repo": "timtec-doc",
   "github_version": "master",
-  "conf_py_path": "/docs/",
+  "conf_py_path": "/docs/source/",
   "source_suffix": source_suffix,
 }
 
